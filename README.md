@@ -5,7 +5,7 @@
 - 📫 How to reach me khoggwen@gmail.com and https://www.instagram.com/21www_n/profilecard/?igsh=MThrNDZhNHM1cnFwNA==
 - 😄 Pronouns: she
 - ⚡ Fun fact: i lovss frog, wanna be a whiz at Excel, Dreaming of being a fullstack dev.
-- 
+
 
 <!---
 wngwenn/wngwenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
